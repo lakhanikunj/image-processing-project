@@ -1,2 +1,19 @@
 # image-processing-project
-An image processing project that performs operations like pixel counting, grayscale conversion, thresholding, and contour detection.
+- A college project built collaboratively that performs different operations on an image.
+
+
+# Features
+- Red pixel counting
+- Grayscale conversion
+- Threshold image generation
+- Contour detection
+- Dominant color detection
+- Creating a HSV image
+- Creating masks
+
+
+# Built With
+- Python
+- OpenCV
+- tKinter
+- NumPy
